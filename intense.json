@@ -1,0 +1,14 @@
+{"intents": [
+  {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "good day", "greetings", "what's up", "how is it going"],
+  "responses": ["Hello!","Hey", "What can I do for you?"]
+  },
+
+  {"tag": "age",
+    "patterns": ["how old are you", "what's your age?", "how long have you been here?","how old?", "age?"],
+  "responses": ["0!","I'm just born", "I'm new in this new!","N/A yet!"]
+  },
+  {"tag": "headdash",
+    "patterns": ["I feel a headdash", "my head hurts", "headhurt"],
+  "responses": ["Do you have a fever?","Do you know how much temputure are you ate right now?"]}
+]}
